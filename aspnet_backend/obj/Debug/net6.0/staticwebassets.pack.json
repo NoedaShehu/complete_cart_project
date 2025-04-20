@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\about_page\\About.html",
+      "PackagePath": "staticwebassets\\projekt\\about_page\\About.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\about_page\\background.webp",
+      "PackagePath": "staticwebassets\\projekt\\about_page\\background.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\about_page\\script.js",
+      "PackagePath": "staticwebassets\\projekt\\about_page\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\about_page\\style.css",
+      "PackagePath": "staticwebassets\\projekt\\about_page\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\cart_page\\Cart.html",
+      "PackagePath": "staticwebassets\\projekt\\cart_page\\Cart.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\cart_page\\cart.js",
+      "PackagePath": "staticwebassets\\projekt\\cart_page\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\cart_page\\style.css",
+      "PackagePath": "staticwebassets\\projekt\\cart_page\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\Accessories.jpg",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\Accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\Home.html",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\Home.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\background.webp",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\background.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\pants.jpg",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\script.js",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\shirt.avif",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\shirt.avif"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\home_page\\styles.css",
+      "PackagePath": "staticwebassets\\projekt\\home_page\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\README.txt",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\background.webp",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\background.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\db.sql",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\db.sql"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\index.html",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\register.html",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\script.js",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\server.js",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\server.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\login_page\\style.css",
+      "PackagePath": "staticwebassets\\projekt\\login_page\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\Shop.html",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\Shop.html"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item1.jpg",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item10.jpg",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item2.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item2.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item3.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item3.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item4.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item4.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item5.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item5.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item6.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item6.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item7.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item7.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item8.jpg",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\images\\item9.webp",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\images\\item9.webp"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\script.js",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\TR3BIT\\Downloads\\complete_cart_project\\aspnet_backend\\wwwroot\\projekt\\shop_page\\style.css",
+      "PackagePath": "staticwebassets\\projekt\\shop_page\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPNetCartBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASPNetCartBackend.props",
+      "PackagePath": "build\\ASPNetCartBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPNetCartBackend.props",
+      "PackagePath": "buildMultiTargeting\\ASPNetCartBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASPNetCartBackend.props",
+      "PackagePath": "buildTransitive\\ASPNetCartBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

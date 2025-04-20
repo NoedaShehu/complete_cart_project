@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 1rem;
+}
+p {
+  color: white;
+  text-align: center;
+}
+
+p a {
+  color: white;
+  text-decoration: underline;
+}
+
+.container {
+  background-color: black;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 300px;
+  margin: 5rem auto; 
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+.container, .login-box {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+}
+
+input[type="email"], input[type="password"], button {
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  width: 70%; 
+  margin-left: 23%; 
+  border-radius: 6px;
+    background-color: #692a2a;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #692a2abc;
+}
+
+
+body {
+    background-image: url('background.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}

@@ -1,0 +1,237 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.container, .card-wrapper {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.card {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none; 
+}
+
+header {
+  background: #111;
+  color: #fff;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  font-size: 1.8em;
+  font-weight: bold;
+  flex: 1;
+}
+
+nav {
+  flex: 2;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+
+nav ul li a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background: #692a2a;
+  transition: width 0.3s;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+}
+
+.menu-toggle {
+  display: none;
+  font-size: 2em;
+  cursor: pointer;
+  color: white;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.menu-toggle:hover {
+  transform: rotate(90deg);
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  nav {
+    display: none;
+    width: 100%;
+  }
+
+  nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+    background: #111;
+    padding: 15px;
+  }
+
+  nav.show {
+    display: block;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+}
+
+
+.hero {
+  height: 100vh;
+  background: url('background.webp') no-repeat center center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 12px 30px;
+  background-color: #692a2a;
+  color: #fbfbfb;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #2a0e0e;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.product-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.product-card img {
+  width: 100%;
+  height: 450px; 
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+
+.product-card:hover img {
+  transform: scale(1.05);
+}
+
+.overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: #692a2a69;
+  opacity: 0;
+  color: white;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.4s;
+  border-radius: 15px;
+}
+
+.product-card:hover .overlay {
+  opacity: 1;
+}
+
+
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 10px 15px; 
+  margin-top: 40px;
+  font-size: 0.9em;
+}
+
+
+.contact-icons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 1.5rem;
+}
+
+.contact-icons a {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+
