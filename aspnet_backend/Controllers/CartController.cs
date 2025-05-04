@@ -17,10 +17,10 @@ public class CartController : ControllerBase
         return new MySqlConnection(_configuration.GetConnectionString("DefaultConnection"));
     }
 
-    [HttpGet("{userId}")]
+     [HttpGet("{userId}")]
 public IActionResult GetCart(int userId)
 {
-    var items = new List<object>();
+    var items = new List<object>(); // Declaring the items list to hold cart items
     using var conn = new MySqlConnection(_configuration.GetConnectionString("DefaultConnection"));
     conn.Open();
     var query = @"
@@ -42,7 +42,7 @@ public IActionResult GetCart(int userId)
             Quantity = reader.GetInt32("Quantity")
         });
     }
-    return Ok(items);
+    return Ok(items); // Return the list of cart items
 }
 [HttpPost]
 public IActionResult AddToCart([FromBody] CartItem item)
