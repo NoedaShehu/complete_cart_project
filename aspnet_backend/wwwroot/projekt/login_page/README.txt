@@ -1,21 +1,6 @@
 == Men's Clothing Store Login System ==
-
-1. Requirements:
-- Node.js installed
-- MySQL server running
-
-2. Setup:
-
-- Import 'db.sql' into your MySQL using your tool (phpMyAdmin, CLI, etc.)
-- Open 'server.js' and change:
-  - your_mysql_user
-  - your_mysql_password
-
-3. Run the backend:
-$ node server.js
-
-4. Open 'index.html' in a browser.
-
-Default user:
-Email: user@example.com
-Password: 123456
+1. Run ASP.Net with command dotnet run 
+2.Open Index.html from login_page.
+3.Register if do not have account 
+4.Login
+5.Enjoy
